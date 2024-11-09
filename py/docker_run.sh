@@ -1,0 +1,1 @@
+docker run -it --rm -v $(pwd)/video/keyframes_out:/app/video/keyframes_out oaix_kg
